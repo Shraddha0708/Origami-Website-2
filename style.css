@@ -1,5 +1,5 @@
 .origamiheading {
-    color: white;
+    color: PINK;
     text-align: center;
     font-family: Verdana, arial, sans-serif;
 }
@@ -71,3 +71,14 @@ body{
    display:flex;
    justify-content:space-between;
 }
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color:#000000;
+    padding:30px;
+    font-size:30px;
+   font-family:400px;
+   color:#ffffff;
+   
+}
+.menu a{text-decoration:none;}
